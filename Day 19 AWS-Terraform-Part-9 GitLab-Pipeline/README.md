@@ -1,5 +1,8 @@
 # Day 19 Terraform Modules with GitLab 
 
+![a-3d-render-of-a-dynamic-and-energetic-thumbnail-w-MdC5XT42QNySa2zI6fo6Sw-mIHViexFR9C60umSgtcnBg](https://github.com/user-attachments/assets/aa7fdce1-98ee-448a-9c96-343b0fbdba0d)
+
+
 ```markdown
 # Terraform - GitLab Integration
 
