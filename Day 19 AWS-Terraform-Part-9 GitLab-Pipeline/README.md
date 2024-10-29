@@ -3,6 +3,8 @@
 ![a-3d-render-of-a-dynamic-and-energetic-thumbnail-w-MdC5XT42QNySa2zI6fo6Sw-mIHViexFR9C60umSgtcnBg](https://github.com/user-attachments/assets/aa7fdce1-98ee-448a-9c96-343b0fbdba0d)
 
 
+Complete Source file here : https://gitlab.com/saikiranpi1/modules-gitlab.git
+
 ```markdown
 # Terraform - GitLab Integration
 
