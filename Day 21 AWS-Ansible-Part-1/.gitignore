@@ -1,0 +1,4 @@
+.terraform.lock.hcl
+.terraform/*
+6.ansible-playbook-nginx.yml
+invfile*
