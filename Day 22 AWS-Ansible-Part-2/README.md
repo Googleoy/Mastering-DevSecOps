@@ -116,8 +116,6 @@ This project is licensed under the MIT License.
 
 ---
 
-This README provides a clear guide on setting up Redis, using handlers, fetching files, managing sensitive data with Vault, and ensuring secure configurations with the vault password file. Let me know if you'd like any changes or additional details.
-
 
 
 
