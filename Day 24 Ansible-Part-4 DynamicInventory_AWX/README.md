@@ -1,5 +1,7 @@
 # Ansible Dynamic Inventory and Ansible Tower
 
+"Anible Dynamic Inventory" title with Attractive Font for youtube Thumbnail 
+
 This guide explains how to use **Ansible Dynamic Inventory**  for managing dynamic environments, such as those involving auto-scaling groups. Unlike static inventory, dynamic inventory adapts to infrastructure changes, such as scaling up or down during load variations.
 
 ---
