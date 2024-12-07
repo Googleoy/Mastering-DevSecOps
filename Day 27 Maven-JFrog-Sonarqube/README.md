@@ -1,5 +1,8 @@
 
-# Maven-Jfrog-SonarQube Integration
+![Untitled design](https://github.com/user-attachments/assets/dfaf3392-9cfd-43b2-86c1-e1bdd956b3ee)
+
+
+# Maven-Jfrog Integration
 
 This repository showcases the integration of **Maven**, **JFrog**, and **SonarQube** to build, manage, and analyze a Java-based Spring Boot application. Below are the detailed steps to set up and deploy a sample application.
 
