@@ -142,6 +142,6 @@ sudo systemctl enable sonar
 - Wait 5 minutes
 - Access: http://your-server:9000
 - Login: admin/admin
-- Token: sqp_0696f54a91f2c029b12bc85f580c1d59ea5cb17a
+
 
 
