@@ -61,8 +61,6 @@ stages:
             inputs:
               SonarQube: "SonarTestToken"
               scannerMode: "Other"
-              #projectKey: 'sqp_63da7bac31bd4496f2ee1170156659ea8c782c28'-NotNeeded
-              #projectName: 'ado-spring-boot-app-dev'-NotNeeded
               projectVersion: "$(Build.BuildId)"
             displayName: "Preparing SonarQube Config"
           - task: Maven@4
