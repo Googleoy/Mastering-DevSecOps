@@ -1,4 +1,7 @@
 # Day 37 Jenkins-Part-2
+
+![diagram-export-1-29-2025-8_53_17-PM](https://github.com/user-attachments/assets/123cd71f-a1ff-4263-a77f-13d00818363e)
+
 # Jenkins RBAC and Backup & Restore
 
 ## Jenkins Role-Based Access Control (RBAC)
