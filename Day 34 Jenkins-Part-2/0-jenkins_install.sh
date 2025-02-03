@@ -45,7 +45,7 @@ sudo chown ansibleadmin:ansibleadmin /home/ansibleadmin/.ssh/authorized_keys
 sudo chmod 600 /home/ansibleadmin/.ssh/authorized_keys
 sudo usermod -aG sudo ansibleadmin
 echo 'ansibleadmin ALL=(ALL) NOPASSWD: ALL' | sudo tee -a /etc/sudoers
-echo 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCMsjcoYr3T4NCq/FsgQ3hJQcwgoXs9RZ2ZaEcq2zDJcjiuB+b3f3npQMOESx9le5jeTGdmUXErKEaf5FSQ3iUqphPXYPLTTk23SENae10r60DRFnSPJmRV63dd+EL/0E1krx07BBIHELuUxojlU6iIOKU9SF4nD4PaowKaQKcfYROMEJD3fRfn0EGGrZlVtjhnJs/jMCUwgHa0FhCEvoolX1UP1sFckJZmF6U9gKA57vnpZ10IjCbghMAU2UyRE8U9R22gD5MvWfTt2fQSHRqAg27wWFGr3/cM28qo1f6VTFJcNS2B+Fb1Ho7dd0UBNPU4PFMycGQV1PHmlcwLeWLg2Yp1eQRgOv4Ql/aRXotpqWWtPyZ+mHjLD0F0dmCSoxn/i8hMjD/rZyAW2LyxsD0mK2vBdiLDiGxYd8V9NRdXoHpggt9sTFQ+t+IQbcC35hE2rf008nRbmbj/vWrOaw3XxcK9rU55ob7jDPBK3uHpMb3Po7xDLUcrP8XTwUImHDU=' | sudo tee /home/ansibleadmin/.ssh/authorized_keys
+echo 'ssh-rsa key here' | sudo tee /home/ansibleadmin/.ssh/authorized_keys
 usermod -aG root ansibleadmin
 usermod -aG docker ansibleadmin
 
